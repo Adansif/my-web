@@ -1,0 +1,22 @@
+.navbar-container{
+    position:fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+    background-color: #0492C2;
+}
+.navbar-buttons-selected{
+    background-color: #0492C2;
+    border: none;
+    color: white;
+}
+
+.navbar-buttons-unselected{
+    background-color: #0492C2;
+    border: none;
+    color: lightgray;
+}
+
+.name{
+    font-size: xx-large;
+}
