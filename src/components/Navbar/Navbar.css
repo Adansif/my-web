@@ -20,3 +20,7 @@
 .name{
     font-size: xx-large;
 }
+
+.row{
+    --bs-gutter-x: 0;
+}
